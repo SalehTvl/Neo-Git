@@ -53,5 +53,5 @@ gcc -o neogit *.c
 
 3. **Run Neo-Git:**
 ```bash
-ngit <command> [arguments]
+neogit <command> [arguments]
 ```
